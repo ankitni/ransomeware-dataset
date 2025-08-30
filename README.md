@@ -219,6 +219,10 @@ Feel free to improve the pipeline by:
 - Adding real-time inference capabilities
 - Improving visualization and reporting
 
+## Acknowledgements
+
+Special thanks to [cloudymts](https://www.kaggle.com/cloudymts) for providing the ransomware dataset used in this project.
+
 ## License
 
 This project is for educational and research purposes. The dataset is from CTU-IoT-Malware Capture Project.
